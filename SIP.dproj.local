@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/21 05:46:19.000.319,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2017/04/21 05:49:59.000.048,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2017/05/13 08:18:01.000.988,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2017/05/13 08:18:18.000.400,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\SIP.dproj</Transaction>
+    <Transaction>2017/05/13 08:18:46.000.444,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.pas=D:\projects\delphi\sip\UMain.pas</Transaction>
+    <Transaction>2017/05/13 08:18:46.000.444,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.fmx=D:\projects\delphi\sip\UMain.fmx</Transaction>
+    <Transaction>2017/05/13 08:18:53.000.238,C:\Users\user\Documents\Embarcadero\Studio\Projects\SIP.dproj=D:\projects\delphi\sip\SIP.dproj</Transaction>
+    <Transaction>2017/05/13 08:19:12.000.411,=D:\projects\delphi\sip\Unit1.pas</Transaction>
+    <Transaction>2017/05/13 08:19:28.000.511,D:\projects\delphi\sip\Unit1.pas=D:\projects\delphi\sip\ULogin.pas</Transaction>
+    <Transaction>2017/05/13 08:19:28.000.511,D:\projects\delphi\sip\Unit1.fmx=D:\projects\delphi\sip\ULogin.fmx</Transaction>
+    <Transaction>2017/05/13 08:19:39.000.243,=D:\projects\delphi\sip\Unit1.pas</Transaction>
+    <Transaction>2017/05/13 08:20:00.000.921,D:\projects\delphi\sip\Unit1.dfm=D:\projects\delphi\sip\UDM.dfm</Transaction>
+    <Transaction>2017/05/13 08:20:00.000.921,D:\projects\delphi\sip\Unit1.pas=D:\projects\delphi\sip\UDM.pas</Transaction>
+    <Transaction>2017/05/13 08:32:36.000.908,=D:\projects\delphi\sip\Unit1.pas</Transaction>
+    <Transaction>2017/05/13 08:32:55.000.791,D:\projects\delphi\sip\Unit1.pas=D:\projects\delphi\sip\UPelaporan.pas</Transaction>
+    <Transaction>2017/05/13 08:32:55.000.791,D:\projects\delphi\sip\Unit1.fmx=D:\projects\delphi\sip\UPelaporan.fmx</Transaction>
+    <Transaction>2017/05/14 12:15:27.673,=D:\projects\delphi\sip\Unit1.pas</Transaction>
+    <Transaction>2017/05/14 12:15:48.814,D:\projects\delphi\sip\UMyClass.pas=D:\projects\delphi\sip\Unit1.pas</Transaction>
+    <Transaction>2017/05/14 12:28:57.259,=D:\projects\delphi\sip\Unit1.pas</Transaction>
+    <Transaction>2017/05/14 12:29:13.728,D:\projects\delphi\sip\UPendaftaran.pas=D:\projects\delphi\sip\Unit1.pas</Transaction>
+    <Transaction>2017/05/14 12:29:13.728,D:\projects\delphi\sip\UPendaftaran.fmx=D:\projects\delphi\sip\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
